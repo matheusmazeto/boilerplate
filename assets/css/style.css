@@ -1,0 +1,52 @@
+body {
+		padding-left: 0 auto;;
+		padding-right: 0 auto;
+		margin-left: 0 auto;
+		margin-right: 0 auto;
+}
+
+
+header div ul {
+	float: right;
+	padding: 20px 0 0 0;
+	display: flex;
+}
+.efeito {
+	background-image: linear-gradient(to bottom, rgb(36, 59, 214), rgb(89, 116, 203));
+	color: white;
+}
+
+.noticias  {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.smaller-image {
+	width: 100px;
+	border: 2px solid black;
+	margin-left: 0;
+}
+
+
+#noticias h3 {
+	text-align: left;
+}
+
+#noticias p {
+	text-align: left;
+	
+}
+
+footer {
+	background-color: #777;
+	padding-right: 0;
+    padding-left: 0;
+}
+
+.largura {
+	max-width: 50em;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 15px;
+	padding-left: 15px;
+}

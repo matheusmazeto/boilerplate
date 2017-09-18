@@ -1,0 +1,22 @@
+{
+  "name": "primeira_tarefa",
+  "version": "1.0.0",
+  "description": "tentar reproduzir um site usando bootstrap",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "css",
+    "responsivo",
+    "html"
+  ],
+  "author": "Matheus Mazeto",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "editorconfig": "^0.14.1",
+    "jquery": "^3.2.1"
+  }
+}
